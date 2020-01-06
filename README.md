@@ -12,3 +12,5 @@ RacuosServerInfo6
 ・BackEnd 処理時間計算
 
 ・ログファイルを必要な形式に変換してくれる cmdファイルは bin 配下にある
+
+test
